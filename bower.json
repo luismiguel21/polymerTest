@@ -1,0 +1,29 @@
+{
+  "name": "polymerTest",
+  "description": "polymerTest 1",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "hello",
+    "world",
+    "polymer",
+    "test"
+  ],
+  "authors": [
+    "SantiMe1"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#1.2.0"
+  }
+}
